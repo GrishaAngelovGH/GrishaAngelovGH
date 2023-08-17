@@ -1,0 +1,12 @@
+
+    <svg width="400" height="150" xmlns="http://www.w3.org/2000/svg">
+        <rect x="2" y="2" rx="15" ry="15" width="396" height="146" fill="white" stroke="blue" stroke-width="2"/>
+        <text x="10" y="30" font-size="18" font-weight="bold" font-family="Arial" fill="#1C3D7E">map-ui</text>
+    <text x="10" y="60" font-size="14" font-family="Arial" fill="#606060">Front-end project providing visualizations and</text>
+<text x="10" y="80" font-size="14" font-family="Arial" fill="#606060">interaction with geographical map.</text>
+
+        <circle cx="15" cy="105" r="6" fill="#f1e05a"/>
+        <text x="25" y="110" font-size="14" font-family="Arial" fill="black">JavaScript</text>
+    
+    </svg>
+    
